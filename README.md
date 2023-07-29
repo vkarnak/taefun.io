@@ -1,2 +1,2 @@
-# taefun.io
+# vkarnak.io
 Taekwondo-website
